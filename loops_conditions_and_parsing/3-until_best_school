@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-#print the words in a list with while statatment
-count=1
-while [ $count -eq 10 ]
+#until loops excute if the statment tuns false"
+count=0
+until [ $count -eq 10 ]
 do
 echo "Best School"
 count=$((count + 1))

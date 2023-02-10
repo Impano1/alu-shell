@@ -2,5 +2,5 @@
 #print the words in a list
 for _ in {in1..10}
 do
-        echo "Best School"
+       echo "Best School"
 done

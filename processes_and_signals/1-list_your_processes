@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-#bash script should be a comment
-echo ps -axjf
+#bash script should be a comments
+ps -axjf

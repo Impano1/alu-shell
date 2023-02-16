@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#super bowl
+
+pgrep -f 7-highlander | xargs kill -9

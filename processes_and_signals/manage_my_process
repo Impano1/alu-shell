@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#bash script should be a comment
+#super bowl winner kansas city chiefs
+a=1
+while [ $a -ge 1 ]
+do
+echo "I am alive!" >> /tmp/my_process
+sleep 2
+done

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#bash script should be a comment
+#manages the manage_processes !!
 file=/var/run/my_process.pid
 if [ "$1" == "start" ];
 then
